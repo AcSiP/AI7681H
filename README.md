@@ -26,6 +26,8 @@ LinkIt Connect 7681 Developer’s Guide:
 
 [LinkIt Connect 7681 API Reference](http://labs.mediatek.com/fileMedia/download/5a44333c-f56a-47e6-ad03-9acfa33c9561)
 
+
+##Hardware Development Guide##
 [LinkIt Connect 7681 Hardware Reference Design](http://labs.mediatek.com/fileMedia/download/ff4f5863-55b0-4664-b189-b705153cf061)
 
 [LinkIt Connect 7681 Development Board Pin-out Diagram](http://labs.mediatek.com/fileMedia/download/1c470d23-0c9b-490a-a71b-c863c6aa4086)
