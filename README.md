@@ -18,7 +18,7 @@ Firmware upgrade over UART, APIs for FOTA implementation
 ##SDK Download##
 [LinkIt™ Connect 7681 SDK](http://labs.mediatek.com/site/global/developer_tools/mediatek_7681/sdk_intro/index.gsp)
   
-## Software Development Guide ##
+##Software Development Guide##
 LinkIt Connect 7681 Developer’s Guide: 
 [English](http://labs.mediatek.com/fileMedia/download/60b77480-f08e-46de-b4ab-513916dcff75), 
 [Chinese](http://labs.mediatek.com/fileMedia/download/02b1a523-fd19-4805-a2b2-0da2728f78ba)
